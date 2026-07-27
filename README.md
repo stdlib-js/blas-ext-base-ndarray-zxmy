@@ -47,6 +47,8 @@ This BLAS extension implements the operation
 
 <!-- </equation> -->
 
+where `⊙` denotes the [Hadamard product][hadamard-product].
+
 </section>
 
 <!-- /.intro -->
@@ -223,6 +225,8 @@ Copyright &copy; 2016-2026. The Stdlib [Authors][stdlib-authors].
 [branches-url]: https://github.com/stdlib-js/blas-ext-base-ndarray-zxmy/blob/main/branches.md
 
 [stdlib-license]: https://raw.githubusercontent.com/stdlib-js/blas-ext-base-ndarray-zxmy/main/LICENSE
+
+[hadamard-product]: https://en.wikipedia.org/wiki/Hadamard_product_(matrices)
 
 </section>
 
