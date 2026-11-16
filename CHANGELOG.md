@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-11-15)
+## Unreleased (2026-11-16)
 
 <section class="features">
 
@@ -23,6 +23,7 @@
 
 <details>
 
+-   [`15e66b1`](https://github.com/stdlib-js/stdlib/commit/15e66b11e02c99970084666b57e6b6a45d3075e3) - **docs:** update Markdown equation elements _(by stdlib-bot)_
 -   [`1782727`](https://github.com/stdlib-js/stdlib/commit/1782727975963f41a58407c67146c206ebe5bdc9) - **docs:** update Markdown equation elements _(by stdlib-bot)_
 -   [`0460153`](https://github.com/stdlib-js/stdlib/commit/0460153a946a0a5c4e5436ddfa7415232abdf67a) - **docs:** update Markdown equation SVGs _(by stdlib-bot)_
 -   [`fbdbbc8`](https://github.com/stdlib-js/stdlib/commit/fbdbbc8921b9d5bcdd18ae040af2bccddc3dc6d0) - **feat:** add C implementation for `blas/ext/base/ndarray/zxmy` [(#16057)](https://github.com/stdlib-js/stdlib/pull/16057) _(by Samarth Kolarkar, Athan Reines, Gururaj Gurram)_
